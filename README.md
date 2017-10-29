@@ -1,2 +1,3 @@
 # hello-world
-RAWR
+# RAWR
+fan = input("what's up doc?: ")
